@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_messages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z7s9JB8tWjmGmgksV6M6VE4A0v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,7 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.simple_messages">
     <configuration name="hello-world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,8 +57,52 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="simple_message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py-Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_message.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simple_messages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py-Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_messages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.simple_messages" />
+        <item itemvalue="Python.simple_message" />
         <item itemvalue="Python.hello-world" />
       </list>
     </recent_temporary>
@@ -81,22 +125,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584254778164" />
-    <state width="1362" height="194" key="GridCell.Tab.0.bottom" timestamp="1584255108653">
+    <state width="1362" height="194" key="GridCell.Tab.0.bottom" timestamp="1584280923519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1362" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584255108653" />
-    <state width="1362" height="194" key="GridCell.Tab.0.center" timestamp="1584255108653">
+    <state width="1362" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584280923519" />
+    <state width="1362" height="194" key="GridCell.Tab.0.center" timestamp="1584280923518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1362" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584255108653" />
-    <state width="1362" height="194" key="GridCell.Tab.0.left" timestamp="1584255108653">
+    <state width="1362" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584280923518" />
+    <state width="1362" height="194" key="GridCell.Tab.0.left" timestamp="1584280923518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1362" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584255108653" />
-    <state width="1362" height="194" key="GridCell.Tab.0.right" timestamp="1584255108653">
+    <state width="1362" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584280923518" />
+    <state width="1362" height="194" key="GridCell.Tab.0.right" timestamp="1584280923518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1362" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584255108653" />
+    <state width="1362" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584280923518" />
     <state x="158" y="0" key="SettingsEditor" timestamp="1584202837660">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
