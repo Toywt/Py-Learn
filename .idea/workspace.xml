@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full_name_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/full_name_ex_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lower_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singel_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +37,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.strip">
-    <configuration name="full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.full_name_ex_2">
+    <configuration name="full_name_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_name_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="full_name_ex_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_name_ex_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_messages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lower_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +92,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simple_messages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lower_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="singel_message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py-Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singel_message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,34 +143,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Py-Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tab.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.full_name_ex_2" />
+        <item itemvalue="Python.full_name_ex" />
+        <item itemvalue="Python.lower_name" />
+        <item itemvalue="Python.singel_message" />
         <item itemvalue="Python.strip" />
-        <item itemvalue="Python.tab" />
-        <item itemvalue="Python.full_name" />
-        <item itemvalue="Python.name" />
-        <item itemvalue="Python.simple_messages" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584453827110</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成2-3.3练习">
+      <created>1584454550211</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584454550211</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成2-3-4的练习">
+      <created>1584454635718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584454635718</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,41 +201,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成2-3.3练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成2-3.3练习" />
+    <MESSAGE value="完成2-3-4的练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成2-3-4的练习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="70" key="#Notifications" timestamp="1584254778164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584254778164" />
-    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1584454566729">
+    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1584454635140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584454566729" />
-    <state width="1513" height="209" key="GridCell.Tab.0.bottom" timestamp="1584454540042">
+    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584454635140" />
+    <state width="1513" height="209" key="GridCell.Tab.0.bottom" timestamp="1584455348796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584454540042" />
-    <state width="1513" height="209" key="GridCell.Tab.0.center" timestamp="1584454540042">
+    <state width="1513" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
+    <state width="1513" height="209" key="GridCell.Tab.0.center" timestamp="1584455348796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584454540042" />
-    <state width="1513" height="209" key="GridCell.Tab.0.left" timestamp="1584454540042">
+    <state width="1513" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
+    <state width="1513" height="209" key="GridCell.Tab.0.left" timestamp="1584455348796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584454540042" />
-    <state width="1513" height="209" key="GridCell.Tab.0.right" timestamp="1584454540042">
+    <state width="1513" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
+    <state width="1513" height="209" key="GridCell.Tab.0.right" timestamp="1584455348796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584454540042" />
+    <state width="1513" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
     <state x="158" y="0" key="SettingsEditor" timestamp="1584427100027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="158" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584427100027" />
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1584453873868">
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1584454642711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584453873868" />
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584454642711" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584454599431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
