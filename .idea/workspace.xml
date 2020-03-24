@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/full_name_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/full_name_ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lower_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singel_message.py" afterDir="false" />
+    <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="完成2-3-4的练习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_name_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_name_ex_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name_ex_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lower_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/lower_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/simple_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/simple_messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singel_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/singel_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/strip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tab.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/tab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +44,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.full_name_ex_2">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wong\Documents\GitHub\Py-Learn\unit-2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.birthday">
+    <configuration name="birthday" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Py-Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit-2/birthday.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="full_name_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Py-Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_name_ex.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wong\Documents\GitHub\Py-Learn\unit-2\full_name_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/full_name_ex_2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wong\Documents\GitHub\Py-Learn\unit-2\full_name_ex_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lower_name.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wong\Documents\GitHub\Py-Learn\unit-2\lower_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,28 +146,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/singel_message.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="strip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Py-Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strip.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wong\Documents\GitHub\Py-Learn\unit-2\singel_message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.birthday" />
         <item itemvalue="Python.full_name_ex_2" />
         <item itemvalue="Python.full_name_ex" />
         <item itemvalue="Python.lower_name" />
         <item itemvalue="Python.singel_message" />
-        <item itemvalue="Python.strip" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +205,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -209,34 +223,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584254778164" />
-    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1584454635140">
+    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1584460650726">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584454635140" />
-    <state width="1513" height="209" key="GridCell.Tab.0.bottom" timestamp="1584455348796">
+    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584460650726" />
+    <state width="1513" height="209" key="GridCell.Tab.0.bottom" timestamp="1585073607668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
-    <state width="1513" height="209" key="GridCell.Tab.0.center" timestamp="1584455348796">
+    <state width="1513" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585073607668" />
+    <state width="1513" height="209" key="GridCell.Tab.0.center" timestamp="1585073607668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
-    <state width="1513" height="209" key="GridCell.Tab.0.left" timestamp="1584455348796">
+    <state width="1513" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585073607668" />
+    <state width="1513" height="209" key="GridCell.Tab.0.left" timestamp="1585073607668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
-    <state width="1513" height="209" key="GridCell.Tab.0.right" timestamp="1584455348796">
+    <state width="1513" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585073607668" />
+    <state width="1513" height="209" key="GridCell.Tab.0.right" timestamp="1585073607668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1513" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584455348796" />
+    <state width="1513" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585073607668" />
     <state x="158" y="0" key="SettingsEditor" timestamp="1584427100027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="158" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584427100027" />
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1584454642711">
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1584460660946">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584454642711" />
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584460660946" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584454599431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -245,5 +259,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="454" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584202386440" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585073651936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585073651936" />
   </component>
 </project>
