@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="完成2-3-4的练习">
+    <list default="true" id="fbe90550-f873-486b-ab8b-644c14bd14f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full_name_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/full_name_ex_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/full_name_ex_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lower_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/lower_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/name.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/simple_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/simple_messages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/singel_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/singel_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/strip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tab.py" beforeDir="false" afterPath="$PROJECT_DIR$/unit-2/tab.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584454635718</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="python不会自动转换类型">
+      <created>1585073712736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585073712736</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,17 +212,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成2-3.3练习" />
     <MESSAGE value="完成2-3-4的练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成2-3-4的练习" />
+    <MESSAGE value="python不会自动转换类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="python不会自动转换类型" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="70" key="#Notifications" timestamp="1584254778164">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="388" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1584254778164" />
-    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1584460650726">
+    <state x="502" y="0" key="CommitChangelistDialog2" timestamp="1585073711872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584460650726" />
+    <state x="502" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1585073711872" />
     <state width="1513" height="209" key="GridCell.Tab.0.bottom" timestamp="1585073607668">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,10 +244,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="158" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584427100027" />
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1584460660946">
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2" timestamp="1585073729197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584460660946" />
+    <state x="360" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1585073729197" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584454599431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
