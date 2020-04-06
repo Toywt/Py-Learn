@@ -1,0 +1,12 @@
+dream_world = ['shanghai','hanzhou','shenzhen','chengdu','chongqi']
+print(dream_world)
+print(sorted(dream_world))
+print(dream_world)
+print(sorted(dream_world,reverse=True))
+print(dream_world)
+dream_world.reverse()
+print(dream_world)
+dream_world.sort()
+print(dream_world)
+dream_world.sort(reverse=True)
+print(dream_world)
